@@ -1,0 +1,9 @@
+{
+  "name": "nodebb-plugin-composer-awge",
+  "version": "1.4.0",
+  "description": "Nodebb Composer for AWGE",
+  "main": "library.js",
+  "dependencies": {
+    "screenfull": "3.0.0"
+  }
+}
