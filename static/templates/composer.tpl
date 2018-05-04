@@ -172,7 +172,7 @@
 
 	<div class="awge-windows-statusbar">
 		<div class="left">
-			<p>© 2017 AWGE</p>
+			<p>© 2018 AWGE</p>
 		</div>
 		<div class="right">
 			<!-- IMPORT partials/breadcrumbs.tpl -->
