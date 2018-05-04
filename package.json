@@ -1,9 +1,70 @@
 {
-  "name": "nodebb-plugin-composer-awge",
-  "version": "1.4.0",
-  "description": "Nodebb Composer for AWGE",
-  "main": "library.js",
+  "_args": [
+    [
+      {
+        "raw": "nodebb-plugin-composer-awge",
+        "scope": null,
+        "escapedName": "nodebb-plugin-composer-awge",
+        "name": "nodebb-plugin-composer-awge",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/ec2-user/environment/NodeBB"
+    ]
+  ],
+  "_from": "nodebb-plugin-composer-awge@latest",
+  "_id": "nodebb-plugin-composer-awge@1.5.0",
+  "_inCache": true,
+  "_location": "/nodebb-plugin-composer-awge",
+  "_nodeVersion": "6.11.4",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/nodebb-plugin-composer-awge-1.5.0.tgz_1516725740759_0.30307107884436846"
+  },
+  "_npmUser": {
+    "name": "alex_shortt",
+    "email": "alexander.shortt@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nodebb-plugin-composer-awge",
+    "scope": null,
+    "escapedName": "nodebb-plugin-composer-awge",
+    "name": "nodebb-plugin-composer-awge",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-composer-awge/-/nodebb-plugin-composer-awge-1.5.0.tgz",
+  "_shasum": "a13318a59630078fe751bc4556e1cf1c0588476c",
+  "_shrinkwrap": null,
+  "_spec": "nodebb-plugin-composer-awge",
+  "_where": "/home/ec2-user/environment/NodeBB",
   "dependencies": {
     "screenfull": "3.0.0"
-  }
+  },
+  "description": "Nodebb Composer for AWGE",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "a13318a59630078fe751bc4556e1cf1c0588476c",
+    "tarball": "https://registry.npmjs.org/nodebb-plugin-composer-awge/-/nodebb-plugin-composer-awge-1.5.0.tgz"
+  },
+  "main": "library.js",
+  "maintainers": [
+    {
+      "name": "alex_shortt",
+      "email": "alexander.shortt@gmail.com"
+    }
+  ],
+  "name": "nodebb-plugin-composer-awge",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "1.5.0"
 }

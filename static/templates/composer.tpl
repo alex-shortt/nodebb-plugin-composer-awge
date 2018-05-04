@@ -3,7 +3,7 @@
 		<div class="pull-right">
 			<button class="minimize"><span class="fa fa-minus"></span></button>
 			<button class="expand"><span class="fa fa-square-o"></span></button>
-			<button class="times"><span class="fa fa-times"></span></button>
+			<button class="times composer-discard" data-action="discard" tabindex="-1"><span class="fa fa-times"></span></button>
 		</div>
 		<h1 class="awge-windows-title-text">
 			<!-- IF isTopic -->
